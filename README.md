@@ -1,5 +1,5 @@
 Hi, I'm Prafullit Bhattacharya 👋
-🚀 Passionate Backend Developer | 💻 Django Enthusiast | 📊 Aspiring Data scientist
+🚀 💻 Django Enthusiast | 📊 Aspiring Data scientist
 
 About Me
 I'm a developer focused on building efficient, scalable, and impactful software solutions. I enjoy working with Django for web development and Machine Learning to solve complex data problems. Currently, I’m diving deeper into Machine Learning and improving my knowledge of algorithms and data structures.
